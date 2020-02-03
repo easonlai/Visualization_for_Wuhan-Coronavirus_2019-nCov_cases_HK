@@ -1,7 +1,7 @@
 # Visualization for Wuhan Coronavirus 2019-nCov cases Hong Kong
-Map visualization for Wuhan Coronavirus (2019-nCov) cases in Hong Kong by GeoPy [Google Map API](https://cloud.google.com/maps-platform/) &amp; Folium
+Map visualization for Wuhan Coronavirus (2019-nCov) cases in Hong Kong by [GeoPy](https://geopy.readthedocs.io/en/stable/) [Google Map API](https://cloud.google.com/maps-platform/) &amp; [Folium](https://python-visualization.github.io/folium/)
 
-Source open data "List of buildings in which confirmed cases of novel coronavirus infection have stayed during the symptomatic phase in the past 14 days (English)" from Centre for Health Protection Hong Kong (CHP)
+Source open data "List of buildings in which confirmed cases of novel coronavirus infection have stayed during the symptomatic phase in the past 14 days (English)" from [Centre for Health Protection Hong Kong (CHP)](https://www.chp.gov.hk/en/index.html)
 
 Other open data from CHP can be obtain from https://data.gov.hk/en-data/dataset/hk-dh-chpsebcddr-novel-infectious-agent
 
