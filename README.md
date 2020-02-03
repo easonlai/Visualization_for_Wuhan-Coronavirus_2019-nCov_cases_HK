@@ -5,4 +5,4 @@ Source open data "List of buildings in which confirmed cases of novel coronaviru
 
 Other open data from CHP can be obtain from https://data.gov.hk/en-data/dataset/hk-dh-chpsebcddr-novel-infectious-agent
 
-
+![alt text](https://github.com/easonlai/Visualization_for_Wuhan-Coronavirus_2019-nCov_cases_HK/blob/master/map1.PNG)
